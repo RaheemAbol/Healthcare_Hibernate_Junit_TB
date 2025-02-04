@@ -1,4 +1,4 @@
-# **Healthcare Hibernate JUnit Ticket Breakdown (Updated and Detailed)**  
+# **Healthcare Hibernate JUnit Ticket Breakdown**  
 
 ---
 
