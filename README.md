@@ -19,8 +19,8 @@ These test classes ensure that the `OfficeService` class correctly performs CRUD
 - Create a new test class named `OfficeServiceTest` inside the `test` package.  
 
 ### **Steps to Implement:**  
-1. **Annotate the class with `@TestInstance(TestInstance.Lifecycle.PER_CLASS)`**  
-   - This will allow `@BeforeEach` and `@AfterEach` to manage Hibernate session instances.  
+1. 
+   - use `@BeforeEach` and `@AfterEach` to manage Hibernate session instances.  
    
 2. **Initialize Hibernate in `@BeforeEach`**  
    - Configure `SessionFactory` using `hibernate-test.cfg.xml`.  
